@@ -13,4 +13,4 @@ Abrir o terminal >> buscar um local que deseja guardar uma pasta >> criar uma pa
 >Use o terminal pois a aprendizagem e mais eficiente!
 
 Usando o comando mkdir criarei uma pasta chamada exemplo1.
-![Imagem1] (/imagens/exemplo1_mkdir.png "imagem mostra passo1") 
+![Imagem1](/imagens/exemplo1_mkdir.png "imagem mostra passo1") 
