@@ -12,10 +12,10 @@ Via terminal direto;
 > Você precisa baixar o Git, ter uma conta no GitHub e configurar o vscode para usar o git com
 > ele
 
-Baixe o git 
-[Git](https://git-scm.com/)
-Documentação para usar o git no vscode
-[Documentação](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github-visual-studio-code/)
+Baixe o  
+[Git](https://git-scm.com/) aqui esta uma 
+[Documentação](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github-visual-studio-code/) para usar integrar o git ao vscode
+
 
 Abrir o terminal >> buscar um local que deseja guardar uma pasta >> criar uma pasta >> abrir essa pasta no vs code
 >[!TIP]
@@ -47,5 +47,5 @@ Usando o menu lateral esquerdo no vs code podemos veriicar a opção (Controle d
 
 >[!IMPORTANT]
 > É Necessario realizar a configuração da conta do GitHub no seu VScode, estou deixando um link 
-> com a documentação para realizar isso, porém caso não cosiga a proxima parte mostra um exemplo
+> com a [documentação](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github-visual-studio-code/) para realizar isso, porém caso não cosiga a proxima parte mostra um exemplo
 > com um repositorio criado via site do github.
