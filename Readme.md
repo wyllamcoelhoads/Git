@@ -7,6 +7,16 @@ Via terminal direto;
 >
 >Usando o Linux mint 21.3 e o vs code 1.86.2.
 
+>[!IMPORTANT]
+>
+> Você precisa baixar o Git, ter uma conta no GitHub e configurar o vscode para usar o git com
+> ele
+
+Baixe o git 
+[Git](https://git-scm.com/)
+Documentação para usar o git no vscode
+[Documentação](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github-visual-studio-code/)
+
 Abrir o terminal >> buscar um local que deseja guardar uma pasta >> criar uma pasta >> abrir essa pasta no vs code
 >[!TIP]
 >
@@ -30,5 +40,12 @@ Para ter o que mostrar no repositorio do GitHub vou escrever:
 Isto é um teste de exemplo, os ## são usados para formatar o texto nos arquivos .md e eles são usados para titulos.
 ![Imagem4](/imagens/exemplo1_digitando_md_txt.png)
 
+Usando o atalho Ctrl + s podemos salvar, ou o caminho; Arquivo >> salvar.
+![Imagem5](/imagens/exemplo1_salvando_md.png)
 
+Usando o menu lateral esquerdo no vs code podemos veriicar a opção (Controle de codigo fonte) aqui podemos enviar nosso codigo para o github
 
+>[!IMPORTANT]
+> É Necessario realizar a configuração da conta do GitHub no seu VScode, estou deixando um link 
+> com a documentação para realizar isso, porém caso não cosiga a proxima parte mostra um exemplo
+> com um repositorio criado via site do github.
