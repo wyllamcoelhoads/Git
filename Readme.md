@@ -49,3 +49,11 @@ Usando o menu lateral esquerdo no vs code podemos veriicar a opção (Controle d
 > É Necessario realizar a configuração da conta do GitHub no seu VScode, estou deixando um link 
 > com a [documentação](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github-visual-studio-code/) para realizar isso, porém caso não cosiga a proxima parte mostra um exemplo
 > com um repositorio criado via site do github.
+
+Agora precisamos acessar a conta do GitHub e criar um repositorio.
+
+![Imagem6](/imagens/exemplo1_criando_repositorio_nogit.png)
+
+Logo em seguida informar nome para o repositorio, pode ser igual o nome da pasta que esta na nossa maquina, ou não pode ser um outro nome qualquer.
+
+![Imagem7](/imagens/exemplo1_criando_repositorio_nomecriar.png)
