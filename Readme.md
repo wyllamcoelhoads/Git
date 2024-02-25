@@ -57,3 +57,7 @@ Agora precisamos acessar a conta do GitHub e criar um repositorio.
 Logo em seguida informar nome para o repositorio, pode ser igual o nome da pasta que esta na nossa maquina, ou não pode ser um outro nome qualquer.
 
 ![Imagem7](/imagens/exemplo1_criando_repositorio_nomecriar.png)
+
+O GitHub mostra as formar de realizar o commit e a relação com a pasta no pc e o repositorio de forma remota conforme imagem abaixo.
+
+![Imagem8](/imagens/exemplo1_dados_https_para_add.png)
