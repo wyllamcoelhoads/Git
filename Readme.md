@@ -58,6 +58,27 @@ Logo em seguida informar nome para o repositorio, pode ser igual o nome da pasta
 
 ![Imagem7](/imagens/exemplo1_criando_repositorio_nomecriar.png)
 
-O GitHub mostra as formar de realizar o commit e a relação com a pasta no pc e o repositorio de forma remota conforme imagem abaixo.
+O GitHub mostra as formas de realizar o commit com a pasta no pc e o repositorio de forma remota conforme imagem abaixo.
 
 ![Imagem8](/imagens/exemplo1_dados_https_para_add.png)
+
+Para realizar isso, executaremos cada um dos codigos da imagem acima no terminal do VS code conforme imagem abaixo;
+
+![Imagem9](/imagens/exemplo1_executando%20enderecorepositorio.png)
+
+>[!NOTE]
+>
+> Eu errei os passos para realizar o processo, deu um erro no momento de executrar  
+> git push -u origin main
+> pois eu deveria ter executado git commit -m "qualquer texto que queira aqui" antes
+
+Conforme podemos ver na imagem abaixo.
+
+![Imagem10](/imagens/exemplo1_finalizando_commit.png)
+
+>[!IMPORTANT]
+>
+>
+> No seu pode ocorrer um erro, pois o git precisa do login e senha, o login é o seu nome de user
+> a senha pode ser obtida aqui no 
+> [link](https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
