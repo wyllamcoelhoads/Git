@@ -1,6 +1,10 @@
 # Este é um repositorio para documentar tudo que eu aprendi e quero apresentar sobre o tema GIT
 
 ## Como iniciar um repositorio no github via terminal?
+ Existe basicamente duas formas de criar e utilizar o repositorio com o git no github, conforme a imagem;
+
+[!Imagem0](/imagens/Duas%20formas%20para%20utilizar%20o%20git.png)
+
 Via terminal direto;
 
 >[!NOTE]
